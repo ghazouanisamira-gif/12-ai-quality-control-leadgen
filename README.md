@@ -81,7 +81,7 @@ Technical implementation was handled by the relevant technical resources.
 |---|---:|
 | **Control coverage** | **100% target** |
 | **Automated quality assessment reliability / alignment** | **≈85%** |
-| **Manual audit effort** | **≈40% reduction** |
+| **Manual audit effort** | **≈60% reduction** |
 | **Deployment scope** | Lead Generation projects |
 | **Integration level** | Internal CRM quality-control module |
 
@@ -98,7 +98,7 @@ Detailed calculation methodologies and underlying operational datasets remain co
 
 - **100% control coverage target**
 - **≈85% automated assessment reliability / alignment**
-- **≈40% reduction in manual audit effort**
+- **≈60% reduction in manual audit effort**
 - Progressive industrialisation to **CRM-integrated quality control**
 - Broader deployment capability across Lead Generation projects
 
